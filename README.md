@@ -44,6 +44,11 @@ The assistant allows you to upload PDFs, generate embeddings, and query document
 ## 📄 Report
 Detailed project report is available in `/reports/Agentic_File_Assistant_Report.pdf`.
 
+## 🎥 Demo
+
+![Demo of File Assistant](reports/sample_output.gif)
+
+
 ## 🚀 Future Improvements
 - Web UI for uploading and querying
 - Image understanding capabilities
