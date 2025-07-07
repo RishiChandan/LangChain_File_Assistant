@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-ollama
+python-dotenv
+PyMuPDF
+fpdf
+rich
